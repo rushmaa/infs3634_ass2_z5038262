@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="title_pokemon_detail">Pokemon Detail</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search Pokemon</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_video">Pokérap</string>
+    <string name="title_activity_tips">Random Tips</string>
+    <string name="title_activity_abilities">Abilities</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_pokeradar">Pokeradar</string>
+</resources>

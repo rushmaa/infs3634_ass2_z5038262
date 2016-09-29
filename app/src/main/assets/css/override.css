@@ -1,0 +1,31 @@
+body > * {
+    display: none;
+}
+
+body .pokedex {
+    display: block;
+}
+
+body .pokedex > * {
+    display: none;
+}
+
+body .pokedex .pokedex-pokemon-form,
+body .pokedex .pokedex-pokemon-details,
+body .pokedex .pokedex-pokemon-evolution
+{
+    display: block
+}
+
+
+.notch-collectibles-large {
+    display:none;
+}
+
+.global-footer, footer-divider {
+    display: none
+}
+
+#back-to-top {
+    display: none!important
+}

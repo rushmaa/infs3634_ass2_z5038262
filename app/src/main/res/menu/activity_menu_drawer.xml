@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/pokemon_list"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Pokemon List" />
+        <item
+            android:id="@+id/abilities"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Abilities" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/poke_rap"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Pokérap" />
+        <item
+            android:id="@+id/tips"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Tips" />
+
+        <item
+            android:id="@+id/pokeRadar"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="PokeRadar" />
+        <!--<item-->
+            <!--android:id="@+id/map"-->
+            <!--android:icon="@drawable/ic_menu_camera"-->
+            <!--android:title="Map" />-->
+    </group>
+
+    <item
+        android:id="@+id/terms_and_conditions"
+        android:icon="@drawable/ic_menu_share"
+        android:title="Terms and Conditions" />
+    <!--<item-->
+    <!--android:id="@+id/nav_send"-->
+    <!--android:icon="@drawable/ic_menu_send"-->
+    <!--android:title="Send" />-->
+
+</menu>

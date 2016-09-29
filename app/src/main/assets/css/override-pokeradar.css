@@ -1,0 +1,15 @@
+.sidebar {
+    display: none;
+}
+
+.navbar-brand {
+    display:none;
+}
+
+div.ad.fixed-banner {
+    display:none!important;
+}
+
+div.ad {
+    display:none!important;
+}
